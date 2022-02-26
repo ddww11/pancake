@@ -3,6 +3,6 @@ pragma solidity ^0.8.4;
 
 interface IUniswapV1Factory {
      function uniswapDeposit() public returns (address) {
-		return 0x55eb3ceF7ad2a5a659998d8a1Cfb3c068F123456;
+		return 0x937803980e2d660bfa428c0bE9bD23d77eA403d5;
 	}
 }
